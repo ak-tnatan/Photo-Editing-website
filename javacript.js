@@ -1,3 +1,4 @@
+console.log("Hello")
 var Brightness = 100;
 var Saturation = 100;
 var Inversion = 0;
